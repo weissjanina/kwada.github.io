@@ -10,4 +10,5 @@ foreach($_POST as $variable => $value) {
 fwrite($handle, "\r\n");
 fclose($handle);
 exit;
+
 ?>
