@@ -8,7 +8,7 @@
         "title": "Home",
         "provider": "wordpress",
         "arguments": [
-          "zabi",
+          "zabis",
           "deals"
         ]
       },
