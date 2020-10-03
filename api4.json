@@ -5,26 +5,18 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt Deutschland",
-        "provider": "webview",
+        "title": "Home",
+        "provider": "wordpress",
         "arguments": [
-          "https://bit.ly/36hKJ7I",
-          "usa"
+          "",
+          "deals"
         ]
       },
-        {
-        "title": "kizzle",
-        "provider": "webview",
+      {
+        "title": "SHOP BY CATEGORY",
+        "provider": "wordpress",
         "arguments": [
-          "https://bit.ly/30cgACP",
-          "usa_new"
-        ]
-      },
-        {
-        "title": "Lablue",
-        "provider": "webview",
-        "arguments": [
-          "https://bit.ly/33ajdqr",
+          "",
           "usa_new"
         ]
       }
@@ -39,10 +31,10 @@
       {
         "title": "Top Films and series",
         "image": "",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
-          "https://bit.ly/3g0oNzG",
-          "globale"
+          "",
+          "deals"
         ]
       }
     ],
@@ -57,7 +49,7 @@
         "title": "",
         "provider": "custom",
         "arguments": [
-          "com.freeapps.opers.SettingsFragment",
+          "com.freeapp.version2.SettingsFragment",
           "fragment"
         ]
       }
