@@ -6,17 +6,17 @@
     "tabs": [
       {
         "title": "Home",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "zabis",
+          "https://bit.ly/2SweJV1",
           "deals"
         ]
       },
       {
-        "title": "SHOP BY CATEGORY",
-        "provider": "wordpress",
+        "title": "app",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://bit.ly/2SweJV1",
           "usa_new"
         ]
       }
